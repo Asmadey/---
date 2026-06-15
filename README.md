@@ -13,7 +13,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="images/banner.png" alt="Внедрение ИИ в бизнес-процессы" width="100%">
+  <img src="https://lnvckzeqlweppexwnmdv.supabase.co/storage/v1/object/public/images/1781540238466_vnedrenie%20AI%20v%20biznes.png" alt="Внедрение ИИ в бизнес-процессы" width="100%">
 </div>
 
 # Внедрение ИИ в бизнес-процессы с гарантией роста выручки
